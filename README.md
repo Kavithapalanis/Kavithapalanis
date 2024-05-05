@@ -1,7 +1,7 @@
 ## Hello there! I'm kavitha 👋
 
 A budding Java Developer skilled in backend development with Java, MySQL, and Postman, eager to explore Frontend Development.
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN6Y3N6dXR6czJkejJkb2xqcHFkc3A0anBvd2t1Y2twbDU4MW9mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">                                                
+<img align="right" width="415" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN6Y3N6dXR6czJkejJkb2xqcHFkc3A0anBvd2t1Y2twbDU4MW9mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">                                                
 - 🌱 I’m currently learning DSA
 - 👯 I'm looking to collaborate on Java Full Stack projects
 - 🤔 I’m looking for help with Placements in FAANG and startup companies
