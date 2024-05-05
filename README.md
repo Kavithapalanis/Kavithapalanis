@@ -20,5 +20,8 @@ A budding Java Developer skilled in backend development with Java, MySQL, and Po
 
 ![Kavitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavithapalanis&theme=dark&show_icons=true&&hide=issues,contribs)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/kavithap163)
+
 [![Kavitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavithapalanis&bg_color=000000&color=ffffff&line=00ff80&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
