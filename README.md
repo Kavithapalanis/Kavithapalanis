@@ -4,7 +4,7 @@ A budding Java Developer skilled in backend development with Java, MySQL, and Po
 <img align="right" width="415" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN6Y3N6dXR6czJkejJkb2xqcHFkc3A0anBvd2t1Y2twbDU4MW9mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">                                                
 - 🌱 I’m currently learning DSA
 - 👯 I'm looking to collaborate on Java Full Stack projects
-- 🤔 I’m looking for help with Placements in FAANG and startup companies
+- 🤔 I’m looking for help with Placements in startup companies
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kavitha-p-248189244/)
